@@ -10,7 +10,7 @@ ques = [  [ '\n1. Which language P using ?' , 'Python' , 'HTML' , 'MERN'
                [ '\n4. Which language I S using ?' , 'HTML' , 'MERN'
                , 'SQL', 'Python' ] 
             ]
-levels = [1000,2000,3000,5000,10000,20000,50000,1200000,3200000]
+levels = [1000,2000,3000,5000,10000,20000,70000,1200000,3200000]
 a=0 
 while True : 
     # options = [ques[a][1] ,ques[a][2] ,ques[a][3] ,ques[a][4] ] 
